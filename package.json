@@ -1,0 +1,29 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Simple Todo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadf20/todoListApi.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Ahmad Faaiz A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadf20/todoListApi/issues"
+  },
+  "homepage": "https://github.com/ahmadf20/todoListApi#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
